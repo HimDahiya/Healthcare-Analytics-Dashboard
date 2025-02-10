@@ -1,3 +1,4 @@
+This data analysis project, is driven by the goal of providing valuable insights to healthcare stakeholders. By deciphering complex trends and patterns, the objective is to empower decision-makers, healthcare professionals, and policymakers to make informed choices that enhance the overall efficiency and effectiveness of the U.S. healthcare system.
 # U.S. Healthcare Dynamics: An In-depth Analysis (2019-2020)
 Welcome to the U.S. Healthcare Analytics Dashboard, a comprehensive exploration of the U.S. healthcare landscape from 2019 to 2020. This project is designed to provide actionable insights into key aspects of the healthcare system, offering a data-driven narrative that uncovers trends, challenges, and opportunities.
 
